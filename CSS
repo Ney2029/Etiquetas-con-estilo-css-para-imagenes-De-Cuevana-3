@@ -1,0 +1,23 @@
+/* Year */
+.Year {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 0.5rem;
+    z-index: 3;
+    font-size: .75rem;
+    font-weight: 700;
+    background-color: #007aff;
+    padding: 0 0.5rem;
+    line-height: 1.2rem;
+    border-radius: 1rem;
+    color: #fff;
+}
+{
+  box-sizing: border-box;
+}
+a {
+  color: #fff;
+}
+a {
+  text-decoration: none;
+}
